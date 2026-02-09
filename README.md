@@ -8,7 +8,7 @@ Senior Full-Stack Developer with <b>7+ years of experience</b> in building scala
 
 <p align="center">
   <a href="https://linkedin.com/in/shami-shahbaz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ShamiUsername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/shammi1000"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Experience-7+%20Years-00ffff?style=for-the-badge" />
 </p>
 
@@ -38,7 +38,7 @@ Senior Full-Stack Developer with <b>7+ years of experience</b> in building scala
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%"/>
+<img src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" width="90%"/>
 
 </td>
 </tr>
