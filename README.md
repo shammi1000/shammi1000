@@ -14,7 +14,7 @@ Senior Full-Stack Developer with <b>7+ years of experience</b> in building scala
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Senior+Full-Stack+Developer;Cloud+Architecture+%7C+Microservices;React+Native+%7C+Flutter+Expert;Node.js+%7C+NestJS+%7C+Spring+Boot;AWS+%7C+Docker+%7C+Kubernetes;Building+Enterprise+Scale+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=color=1F51FF&center=true&vCenter=true&width=900&lines=Senior+Full-Stack+Developer;Cloud+Architecture+%7C+Microservices;React+Native+%7C+Flutter+Expert;Node.js+%7C+NestJS+%7C+Spring+Boot;AWS+%7C+Docker+%7C+Kubernetes;Building+Enterprise+Scale+Systems)](https://git.io/typing-svg)
 
 </div>
 
