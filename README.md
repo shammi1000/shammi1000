@@ -72,48 +72,68 @@ Senior Full-Stack Developer with <b>7+ years of experience</b> in building scala
 - Fixed bugs in PHP and JavaScript systems
 
 ---
-
 ## 🚀 Key Projects
 
-### **AI Voice Agent**
-Conversational AI system integrated with OpenAI APIs.  
-**Tech:** Python, FastAPI, WebSockets, React, OpenAI API  
+### 🍔 Food-Delivery-App  
+Modern restaurant menu and food browsing application with dynamic filtering and responsive UI.  
+**Tech:** React, Next.js, JavaScript  
+🔗 https://github.com/shammi1000/Food-Delivery-App  
 
 ---
 
-### **Collab.in (Web & Mobile)**
-Real-time collaboration platform with Socket.io.  
-**Tech:** React, React Native, Node.js, MongoDB  
+### 🤝 Collab.in  
+Full-stack platform connecting businesses with influencers, featuring campaign tools and media integration.  
+**Tech:** React Native, Node.js, MongoDB  
+🔗 https://github.com/shammi1000/Collab.in  
 
 ---
 
-### **Medicare Telemedicine Platform**
-HIPAA-compliant healthcare system with WebRTC video calls.  
-**Tech:** React, Node.js, PostgreSQL, AWS, Stripe  
+### 🏥 Medi-Care-Pro  
+Cloud-based healthcare management system for patient records, appointments, billing, and analytics.  
+**Tech:** TypeScript, Vite, Tailwind CSS  
+🔗 https://github.com/shammi1000/Medi-Care-Pro  
 
 ---
 
-### **Property Finder App**
-Real estate app with maps, AR viewing, and notifications.  
-**Tech:** React Native, MongoDB, Google Maps API  
+### 🏡 Real-State  
+Property finder application with search, map-based exploration, and booking features.  
+**Tech:** TypeScript, Supabase, Tailwind CSS  
+🔗 https://github.com/shammi1000/Real-state  
 
 ---
 
-### **EduLearn LMS**
-E-learning platform with offline courses and quizzes.  
-**Tech:** React, Flutter, AWS S3, CloudFront  
+### 📚 Edu_Learn  
+Digital learning platform with structured courses, quizzes, and personalized learning features.  
+**Tech:** TypeScript, Vite, Tailwind CSS  
+🔗 https://github.com/shammi1000/Edu_Learn  
 
 ---
 
-### **Restaurant POS System**
-Mobile POS with inventory, reservations, and QR ordering.  
-**Tech:** React Native, Firebase, Stripe  
+### 🛍️ Luxe Ecommerce Platform  
+Premium e-commerce platform showcasing luxury products with a modern UI.  
+**Tech:** TypeScript, React  
+🔗 https://github.com/shammi1000/Luxe-Ecommerce-platform  
 
 ---
 
-### **FinTrack Finance App**
-AI-powered expense tracking and budgeting app.  
-**Tech:** Flutter, Firebase, Plaid API  
+### 💰 Finance Hub – Vaultify  
+Finance management system for tracking income, expenses, and financial insights.  
+**Tech:** TypeScript, React  
+🔗 https://github.com/shammi1000/Finance-hub-Vaultify  
+
+---
+
+### 🧾 PixelPlate POS  
+Restaurant POS system for order management, billing, and operational efficiency.  
+**Tech:** TypeScript, React  
+🔗 https://github.com/shammi1000/PixelPlate-POS  
+
+---
+
+### 🎤 AI Voice to Text  
+AI-powered mobile app for speech-to-text, AI chat, translation, and voice-based notes.  
+**Tech:** React Native, AI Integration  
+🔗 https://github.com/shammi1000/Ai-Voice-to-Text  
 
 ---
 
